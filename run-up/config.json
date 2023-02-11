@@ -1,0 +1,20 @@
+{
+  "min_packet_size": 90,
+  "access_points": {
+    "7c:2e:bd:92:c6:8d": "Google (main) 2.4GHz (11)",
+    "7c:2e:bd:92:c6:89": "Google (main) 5GHz (149)",
+    "7c:2e:bd:92:aa:e1": "Google (2nd floor) 2.4GHz (1)",
+    "7c:2e:bd:92:aa:dd": "Google (2nd floor) 5GHz (149)",
+    "7c:2e:bd:88:78:0e": "Google (basement) 2.4GHz (6)",
+    "7c:2e:bd:88:78:0a": "Google (basement) 5GHz (149)"
+  },
+  "devices": {
+    "d0:03:df:94:cf:0c": "Samsung TV",
+    "0a:81:6a:5a:1d:25": "Michael's Phone",
+    "b4:6d:83:fe:2a:91": "Lenovo Laptop",
+    "c4:e9:84:48:08:71": "Roi's PC",
+    "f8:89:d2:87:58:cf": "Noam's PC",
+    "98:e8:fa:31:76:74": "Nintendo Switch",
+    "cc:60:c8:35:91:c9": "Xbox Series S"
+  }
+}

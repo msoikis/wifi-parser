@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "wifi-parser"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "wifi_parser"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dpkt = "^1.9.8"
+pydantic = "^1.10.4"
+datetime = "^5.0"
+devtools = "^0.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
